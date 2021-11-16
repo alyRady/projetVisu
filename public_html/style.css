@@ -1,0 +1,28 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 12 oct. 2021, 09:00:18
+    Author     : Aly-OmarRady
+*/
+
+.tooltip{
+    z-index: 2;
+    position: absolute;
+    display: none;
+    box-shadow: 2px 2px #ccc;
+    background-color: whitesmoke;
+    padding: 10px;
+    border-radius: 5px;
+    min-width: 150px;
+}
+
+.filters{
+    z-index: 2;
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    padding: 10px;
+}
